@@ -1,4 +1,6 @@
 # Super-Mario_Jogo_da_Memoria  
 
-Projeto de um jogo da memória criado sob a tutoria da Gabriela Pinheiro da Digital Innovation One.  
-Nele forma utilizados: HTML, CSS e JavaScript.
+Jogo da memória com tema do Super Mário, com sons e pontuação de erros e acertos.   
+Foi desenvolvido em HTML, CSS e JavaScript sob a tutoria da Gabriela Pinheiro da Digital Innovation One.   
+
+ ![Estrutura de Pastas](img/Jogo-da-Memoria-Com-Super-Mario.jpg)   
