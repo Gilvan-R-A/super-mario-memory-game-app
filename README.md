@@ -1,5 +1,5 @@
 <h1 align="center">
-   Super-Mario_Jogo_da_Memoria
+   Super-Mario_Memory-Game
 </h1>
 
 Jogo da memória com tema do Super Mário, com sons e pontuação de erros e acertos.   
