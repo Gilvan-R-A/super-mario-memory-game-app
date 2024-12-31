@@ -2,7 +2,7 @@
    Super Mario - Jogo da Memória
 </h1>
 
-Um jogo da memória inspirado no universo do Super Mário, desenvolvido para fins de aprendizado e diversão. O jogo testa a memória do usuário ao encontrar pares de cartas com os personagens do Mário, acompanhado de um interface colorida e efeitos sonoros.   
+Um jogo da memória inspirado no universo do Super Mário, desenvolvido para fins de aprendizado e diversão. O jogo testa a memória do usuário ao encontrar pares de cartas com os personagens do Mário, acompanhado de uma interface colorida e efeitos sonoros.   
 
 ## 🛠️ Tecnologias Utilizadas   
 
